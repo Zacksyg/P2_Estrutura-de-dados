@@ -7,4 +7,5 @@
 <p align="center" >Disciplina: Estrutura de Dados</p>
 <p align="center" >Período: 3º período</p>
 <p align="center" >Professor: Marcio Alexandre Dias Garrido</p>
+<p align="center">Integrantes: Gabriel de Souza Lima e Tiago Monteiro Tertuliano da Silva</p>
 
