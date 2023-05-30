@@ -5,3 +5,4 @@
 <p align="center" >Universidade: Universidade de Vassouras</p>
 <p align="center" >Curso de graduação: Engenharia de Software</p>
 <p align="center" >Disciplina: Estrutura de Dados</p>
+<p align="center" >Período: 3º período</p>
