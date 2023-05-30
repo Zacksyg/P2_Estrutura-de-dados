@@ -6,3 +6,5 @@
 <p align="center" >Curso de graduação: Engenharia de Software</p>
 <p align="center" >Disciplina: Estrutura de Dados</p>
 <p align="center" >Período: 3º período</p>
+<p align="center" >Professor: Marcio Alexandre Dias Garrido</p>
+
