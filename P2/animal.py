@@ -9,5 +9,5 @@ class Animal:
         print("Idade:", self.idade)
         print("Espécie:", self.especie)
 
-
+Animal()
 
