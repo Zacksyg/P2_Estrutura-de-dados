@@ -1,5 +1,6 @@
 from animal import Animal
 from cadastro_animal import CadastroAnimais
+from pessoa import *
 
 if __name__== '__main__':
 
