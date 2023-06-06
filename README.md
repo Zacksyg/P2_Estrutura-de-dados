@@ -8,4 +8,4 @@
 <p align="center" >Período: 3º período</p>
 <p align="center" >Professor: Marcio Alexandre Dias Garrido</p>
 <p align="center">Integrantes: Gabriel de Souza Lima e Tiago Monteiro Tertuliano da Silva</p>
-
+<p align="center">Tema: Programa de Adoção de animais feito em python.</p>
