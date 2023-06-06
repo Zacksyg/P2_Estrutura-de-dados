@@ -1,3 +1,4 @@
+from cadastro_animal import *
 class Animal:
     def __init__(self, nome, idade, especie):
         self.nome = nome
