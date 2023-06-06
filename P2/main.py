@@ -11,3 +11,5 @@ if __name__== '__main__':
     cadastro.adicionar_animal(animal1)
 
     cadastro.exibir_animais()
+    
+    luiz = Pessoa('Luiz', '21', 'Gato')
