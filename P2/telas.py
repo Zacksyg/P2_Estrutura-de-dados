@@ -1,3 +1,6 @@
+from customtkinter import *
+
+
 class Menu(Tela_cadastro_animal):
     def __init__(self):
         self.root_menu = CTk()
