@@ -15,3 +15,4 @@
 <br>
 <br>
 <br>
+<p> O projeto tem como objetivo, auxiliar a prefeitura de Maricá com um software de cadastro de animais e adoção.... </P>
