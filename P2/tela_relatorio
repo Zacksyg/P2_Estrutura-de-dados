@@ -1,1 +1,21 @@
+from customtkinter import *
+from CTkMessagebox import *
+
+class Tela_relatorio:
+    def __init__(self):
+        self.root_relatorio = CTk()
+        self.widgets()
+        self.root_relatorio.mainloop()
+
+    def widgets(self):
+        self.root_relatorio.title('Tela de Relatorio')
+        self.root_relatorio.geometry('700x700')
+        self.root_relatorio.resizable(False, False)
+        self.root_relatorio.config(background='#B0E0E6')
+    
+
+
+
+Tela_relatorio()
+
 
