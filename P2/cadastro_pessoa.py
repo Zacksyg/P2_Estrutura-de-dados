@@ -85,7 +85,7 @@ class Tela_cadastro_pessoa:
         self.root_pessoa.resizable(False, False)
         self.root_pessoa.config(background='#A9A9A9')
 
-        self.image_botao = CTkImage(dark_image=Image.open('imagens\check.png'), size=(50,50))
+        self.image_botao = CTkImage(dark_image=Image.open('P2\imagens\check.png'), size=(50,50))
         
         self.text_inicio = CTkLabel(master=self.root_pessoa, text='Digite ou Selecione Abaixo As suas Informações.', font=('Arial',20),fg_color='#A9A9A9')
         self.text_inicio.place(relx = 0.20, rely=0.05)
