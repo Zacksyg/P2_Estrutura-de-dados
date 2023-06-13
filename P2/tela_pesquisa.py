@@ -67,7 +67,7 @@ class Tela_pesquisa:
         self.root_pesquisa.geometry('900x900')
         self.root_pesquisa.resizable(False, False)
         self.root_pesquisa.config(background='#FFFFFF')
-        self.image_botao = CTkImage(dark_image=Image.open('imagens\check.png'), size=(50,50))
+        self.image_botao = CTkImage(dark_image=Image.open('P2\imagens\check.png'), size=(50,50))
 
         self.tree = ttk.Treeview(self.root_pesquisa, columns=('Especie', 'Porte', 'Idade', 'Particularidade'), show='headings')
         self.tree.heading('Especie', text='Especie', )
