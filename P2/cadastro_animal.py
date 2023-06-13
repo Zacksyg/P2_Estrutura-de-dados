@@ -67,9 +67,9 @@ class Tela_cadastro_animal:
         self.root_animal.resizable(False, False)
         self.root_animal.config(background='#B0E0E6')
         
-        self.image_botao = CTkImage(dark_image=Image.open('p2devdd\check.png'), size=(50,50))
+        self.image_botao = CTkImage(dark_image=Image.open('P2\imagens\check.png'), size=(50,50))
 
-        self.image = CTkImage(dark_image=Image.open('p2devdd\imagem1.png'), size=(700,700))
+        self.image = CTkImage(dark_image=Image.open('P2\imagens\imagem1.png'), size=(700,700))
         self.label_image = CTkLabel(self.root_animal, image=self.image,width=700, height=700)
         self.label_image.place(relx=0.00, rely=0.00)
 
